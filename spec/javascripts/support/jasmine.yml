@@ -1,0 +1,8 @@
+src_dir: app/assets/javascripts
+src_files: [ 'application.js' ]
+asset_paths:
+  - lib/assets/javascripts
+  - vendor/assets/javascripts
+
+spec_dir: spec/javascripts
+spec_files: [ '**/*[Ss]pec.js' ]
